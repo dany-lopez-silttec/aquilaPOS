@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 ################################################################################
-## Form generated from reading UI file 'main.ui'
+## Form generated from reading UI file 'principal.ui'
 ##
 ## Created by: Qt User Interface Compiler version 6.9.1
 ##
@@ -19,12 +19,12 @@ from PySide6.QtWidgets import (QApplication, QHBoxLayout, QMainWindow, QMenuBar,
     QPushButton, QSizePolicy, QStatusBar, QVBoxLayout,
     QWidget)
 
-class Ui_MainWindow(object):
-    def setupUi(self, MainWindow):
-        if not MainWindow.objectName():
-            MainWindow.setObjectName(u"MainWindow")
-        MainWindow.resize(930, 688)
-        self.centralwidget = QWidget(MainWindow)
+class Ui_Principal(object):
+    def setupUi(self, Principal):
+        if not Principal.objectName():
+            Principal.setObjectName(u"Principal")
+        Principal.resize(930, 688)
+        self.centralwidget = QWidget(Principal)
         self.centralwidget.setObjectName(u"centralwidget")
         self.horizontalLayout = QHBoxLayout(self.centralwidget)
         self.horizontalLayout.setObjectName(u"horizontalLayout")
@@ -51,23 +51,23 @@ class Ui_MainWindow(object):
 
         self.horizontalLayout.addWidget(self.w_botones)
 
-        MainWindow.setCentralWidget(self.centralwidget)
-        self.menubar = QMenuBar(MainWindow)
+        Principal.setCentralWidget(self.centralwidget)
+        self.menubar = QMenuBar(Principal)
         self.menubar.setObjectName(u"menubar")
         self.menubar.setGeometry(QRect(0, 0, 930, 23))
-        MainWindow.setMenuBar(self.menubar)
-        self.statusbar = QStatusBar(MainWindow)
+        Principal.setMenuBar(self.menubar)
+        self.statusbar = QStatusBar(Principal)
         self.statusbar.setObjectName(u"statusbar")
-        MainWindow.setStatusBar(self.statusbar)
+        Principal.setStatusBar(self.statusbar)
 
-        self.retranslateUi(MainWindow)
+        self.retranslateUi(Principal)
 
-        QMetaObject.connectSlotsByName(MainWindow)
+        QMetaObject.connectSlotsByName(Principal)
     # setupUi
 
-    def retranslateUi(self, MainWindow):
-        MainWindow.setWindowTitle(QCoreApplication.translate("MainWindow", u"MainWindow", None))
-        self.pushButton.setText(QCoreApplication.translate("MainWindow", u"Boton 1", None))
-        self.pushButton_2.setText(QCoreApplication.translate("MainWindow", u"Boton2", None))
+    def retranslateUi(self, Principal):
+        Principal.setWindowTitle(QCoreApplication.translate("Principal", u"MainWindow", None))
+        self.pushButton.setText(QCoreApplication.translate("Principal", u"Boton 1", None))
+        self.pushButton_2.setText(QCoreApplication.translate("Principal", u"Boton2", None))
     # retranslateUi
 

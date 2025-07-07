@@ -1,6 +1,9 @@
 {
     "files": [
         "main.py",
-        "main.ui"
+        "resources/resources.qrc",
+        "ui/config.ui",
+        "ui/login.ui",
+        "ui/principal.ui"
     ]
 }

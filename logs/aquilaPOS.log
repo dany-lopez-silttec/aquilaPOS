@@ -1,0 +1,113 @@
+2025-07-07 17:08:30,554 main.py <module> 26 INFO Directorio: /home/almustafa/QT_Proyects/aquilaPOS
+2025-07-07 17:09:45,926 main.py <module> 26 INFO Directorio: /home/almustafa/QT_Proyects/aquilaPOS
+2025-07-07 17:10:21,957 main.py <module> 26 INFO Directorio: /home/almustafa/QT_Proyects/aquilaPOS
+2025-07-07 17:20:36,544 main.py <module> 22 INFO PySide version: 6.9.1 / Qt version: 6.9.1
+2025-07-07 17:21:27,271 main.py <module> 22 INFO PySide version: 6.9.1 / Qt version: 6.9.1
+2025-07-07 17:21:27,326 main.py <module> 26 INFO Directorio: /home/almustafa/QT_Proyects/aquilaPOS
+2025-07-07 17:22:14,719 main.py <module> 22 INFO PySide version: 6.9.1 / Qt version: 6.9.1
+2025-07-07 17:22:14,776 main.py <module> 26 INFO Directorio: /home/almustafa/QT_Proyects/aquilaPOS
+2025-07-07 17:27:28,035 database.py get_db 14 INFO Initializing database of type: sqlite
+2025-07-07 17:27:28,035 database.py get_db 39 INFO Connecting to database: aquilaPOS.db
+2025-07-07 17:27:28,035 database.py get_db 42 INFO Database connection established successfully.
+2025-07-07 17:27:28,036 main.py <module> 24 INFO 
+INICIANDO
+PySide version: 6.9.1 / Qt version: 6.9.1
+2025-07-07 17:27:28,077 main.py <module> 28 INFO Directorio: /home/almustafa/QT_Proyects/aquilaPOS
+2025-07-07 17:33:31,650 database.py get_db 14 INFO Initializing database of type: sqlite
+2025-07-07 17:33:31,651 database.py get_db 39 INFO Connecting to database: aquilaPOS.db
+2025-07-07 17:33:31,651 database.py get_db 42 INFO Database connection established successfully.
+2025-07-07 17:33:31,651 main.py <module> 24 INFO PySide version: 6.9.1 / Qt version: 6.9.1
+2025-07-07 17:33:31,707 main.py <module> 28 INFO Directorio: /home/almustafa/QT_Proyects/aquilaPOS
+2025-07-07 17:35:37,705 database.py get_db 14 INFO Initializing database of type: sqlite
+2025-07-07 17:35:37,705 database.py get_db 39 INFO Connecting to database: aquilaPOS.db
+2025-07-07 17:35:37,705 database.py get_db 42 INFO Database connection established successfully.
+2025-07-07 17:35:37,706 main.py <module> 24 INFO PySide version: 6.9.1 / Qt version: 6.9.1
+2025-07-07 17:35:37,751 main.py <module> 28 INFO Directorio: /home/almustafa/QT_Proyects/aquilaPOS
+2025-07-07 17:37:08,068 database.py get_db 14 INFO Initializing database of type: sqlite
+2025-07-07 17:37:08,068 database.py get_db 39 INFO Connecting to database: aquilaPOS.db
+2025-07-07 17:37:08,069 database.py get_db 42 INFO Database connection established successfully.
+2025-07-07 17:37:08,069 main.py <module> 24 INFO PySide version: 6.9.1 / Qt version: 6.9.1
+2025-07-07 17:37:08,107 main.py <module> 28 INFO Directorio: /home/almustafa/QT_Proyects/aquilaPOS
+2025-07-07 17:37:34,458 database.py get_db 14 INFO Initializing database of type: sqlite
+2025-07-07 17:37:34,458 database.py get_db 39 INFO Connecting to database: /home/almustafa/QT_Proyects/aquilaPOS/utils/aquilaPOS.db
+2025-07-07 17:37:34,458 database.py get_db 42 INFO Database connection established successfully.
+2025-07-07 17:37:34,459 main.py <module> 24 INFO PySide version: 6.9.1 / Qt version: 6.9.1
+2025-07-07 17:37:34,506 main.py <module> 28 INFO Directorio: /home/almustafa/QT_Proyects/aquilaPOS
+2025-07-07 17:39:50,493 database.py get_db 14 INFO Initializing database of type: sqlite
+2025-07-07 17:39:50,493 database.py get_db 39 INFO Connecting to database: /home/almustafa/QT_Proyects/aquilaPOS/aquilaPOS.db
+2025-07-07 17:39:50,493 database.py get_db 42 INFO Database connection established successfully.
+2025-07-07 17:39:50,494 main.py <module> 24 INFO PySide version: 6.9.1 / Qt version: 6.9.1
+2025-07-07 17:39:50,549 main.py <module> 28 INFO Directorio: /home/almustafa/QT_Proyects/aquilaPOS
+2025-07-07 17:41:10,278 database.py get_db 14 INFO Initializing database of type: sqlite
+2025-07-07 17:41:10,278 database.py get_db 39 INFO Connecting to database: /home/almustafa/QT_Proyects/aquilaPOS/aquilaPOS.db
+2025-07-07 17:41:10,278 database.py get_db 42 INFO Database connection established successfully.
+2025-07-07 17:41:10,278 main.py <module> 24 INFO PySide version: 6.9.1 / Qt version: 6.9.1
+2025-07-07 17:41:10,334 main.py <module> 28 INFO Directorio: /home/almustafa/QT_Proyects/aquilaPOS
+2025-07-07 17:41:10,334 product.py create_tables 13 INFO Creating tables if they do not exist...
+2025-07-07 17:41:10,341 product.py create_tables 17 INFO Tables created successfully.
+2025-07-07 17:43:16,610 database.py get_db 14 INFO Initializing database of type: sqlite
+2025-07-07 17:43:16,610 database.py get_db 39 INFO Connecting to database: /home/almustafa/QT_Proyects/aquilaPOS/aquilaPOS.db
+2025-07-07 17:43:16,610 database.py get_db 42 INFO Database connection established successfully.
+2025-07-07 17:43:16,610 main.py <module> 24 INFO PySide version: 6.9.1 / Qt version: 6.9.1
+2025-07-07 17:43:16,659 main.py <module> 28 INFO Directorio: /home/almustafa/QT_Proyects/aquilaPOS
+2025-07-07 17:43:16,659 product.py create_tables 13 INFO Creating tables if they do not exist...
+2025-07-07 17:43:16,660 product.py create_tables 17 INFO Tables created successfully.
+2025-07-07 17:43:42,433 database.py get_db 14 INFO Initializing database of type: sqlite
+2025-07-07 17:43:42,433 database.py get_db 39 INFO Connecting to database: /home/almustafa/QT_Proyects/aquilaPOS/aquilaPOS.db
+2025-07-07 17:43:42,433 database.py get_db 42 INFO Database connection established successfully.
+2025-07-07 17:43:42,433 main.py <module> 24 INFO PySide version: 6.9.1 / Qt version: 6.9.1
+2025-07-07 17:43:42,474 main.py <module> 28 INFO Directorio: /home/almustafa/QT_Proyects/aquilaPOS
+2025-07-07 17:43:42,474 product.py create_tables 13 INFO Creating tables if they do not exist...
+2025-07-07 17:43:42,474 product.py create_tables 17 INFO Tables created successfully.
+2025-07-07 17:43:42,475 main.py <module> 37 INFO No hay productos en la base de datos.
+2025-07-07 17:43:46,092 database.py get_db 14 INFO Initializing database of type: sqlite
+2025-07-07 17:43:46,092 database.py get_db 39 INFO Connecting to database: /home/almustafa/QT_Proyects/aquilaPOS/aquilaPOS.db
+2025-07-07 17:43:46,092 database.py get_db 42 INFO Database connection established successfully.
+2025-07-07 17:43:46,092 main.py <module> 24 INFO PySide version: 6.9.1 / Qt version: 6.9.1
+2025-07-07 17:43:46,132 main.py <module> 28 INFO Directorio: /home/almustafa/QT_Proyects/aquilaPOS
+2025-07-07 17:43:46,132 product.py create_tables 13 INFO Creating tables if they do not exist...
+2025-07-07 17:43:46,133 product.py create_tables 17 INFO Tables created successfully.
+2025-07-07 17:43:46,133 main.py <module> 49 INFO Producto: Producto de prueba - Precio: 10.99 - Stock: 100
+2025-07-07 18:24:00,756 database.py get_db 16 INFO Initializing database of type: sqlite
+2025-07-07 18:24:00,756 database.py get_db 41 INFO Connecting to database: /home/almustafa/QT_Proyects/aquilaPOS/aquilaPOS.db
+2025-07-07 18:24:00,756 database.py get_db 44 INFO Database connection established successfully.
+2025-07-07 18:24:00,756 main.py <module> 19 INFO PySide version: 6.9.1 / Qt version: 6.9.1
+2025-07-07 18:24:00,797 main.py <module> 23 INFO Directorio: /home/almustafa/QT_Proyects/aquilaPOS
+2025-07-07 18:24:00,797 tablas.py create_tables 13 INFO Creating tables if they do not exist...
+2025-07-07 18:24:00,798 tablas.py create_tables 17 INFO Tables created successfully.
+2025-07-07 18:24:00,798 main.py <module> 42 INFO Producto: Producto de prueba - Precio: 10.99 - Stock: 100
+2025-07-07 18:28:28,744 database.py get_db 16 INFO Initializing database of type: sqlite
+2025-07-07 18:28:28,745 database.py get_db 41 INFO Connecting to database: /home/almustafa/QT_Proyects/aquilaPOS/aquilaPOS.db
+2025-07-07 18:28:28,745 database.py get_db 44 INFO Database connection established successfully.
+2025-07-07 18:28:28,745 main.py <module> 20 INFO PySide version: 6.9.1 / Qt version: 6.9.1
+2025-07-07 18:28:28,794 main.py <module> 24 INFO Directorio: /home/almustafa/QT_Proyects/aquilaPOS
+2025-07-07 18:28:28,795 tablas.py create_tables 13 INFO Creating tables if they do not exist...
+2025-07-07 18:28:28,795 tablas.py create_tables 17 INFO Tables created successfully.
+2025-07-07 18:28:28,795 main.py <module> 43 INFO Producto: Producto de prueba - Precio: 10.99 - Stock: 100
+2025-07-07 18:28:30,224 main.py <module> 47 INFO Login successful
+2025-07-07 18:28:36,725 database.py get_db 16 INFO Initializing database of type: sqlite
+2025-07-07 18:28:36,725 database.py get_db 41 INFO Connecting to database: /home/almustafa/QT_Proyects/aquilaPOS/aquilaPOS.db
+2025-07-07 18:28:36,725 database.py get_db 44 INFO Database connection established successfully.
+2025-07-07 18:28:36,726 main.py <module> 20 INFO PySide version: 6.9.1 / Qt version: 6.9.1
+2025-07-07 18:28:36,776 main.py <module> 24 INFO Directorio: /home/almustafa/QT_Proyects/aquilaPOS
+2025-07-07 18:28:36,776 tablas.py create_tables 13 INFO Creating tables if they do not exist...
+2025-07-07 18:28:36,776 tablas.py create_tables 17 INFO Tables created successfully.
+2025-07-07 18:28:36,777 main.py <module> 43 INFO Producto: Producto de prueba - Precio: 10.99 - Stock: 100
+2025-07-07 18:30:18,127 database.py get_db 16 INFO Initializing database of type: sqlite
+2025-07-07 18:30:18,127 database.py get_db 41 INFO Connecting to database: /home/almustafa/QT_Proyects/aquilaPOS/aquilaPOS.db
+2025-07-07 18:30:18,127 database.py get_db 44 INFO Database connection established successfully.
+2025-07-07 18:30:18,127 main.py <module> 20 INFO PySide version: 6.9.1 / Qt version: 6.9.1
+2025-07-07 18:30:18,171 main.py <module> 24 INFO Directorio: /home/almustafa/QT_Proyects/aquilaPOS
+2025-07-07 18:30:18,172 tablas.py create_tables 13 INFO Creating tables if they do not exist...
+2025-07-07 18:30:18,172 tablas.py create_tables 17 INFO Tables created successfully.
+2025-07-07 18:30:18,172 main.py <module> 43 INFO Producto: Producto de prueba - Precio: 10.99 - Stock: 100
+2025-07-07 18:30:20,076 main.py <module> 52 INFO Login cancelled or failed
+2025-07-07 18:30:23,246 database.py get_db 16 INFO Initializing database of type: sqlite
+2025-07-07 18:30:23,246 database.py get_db 41 INFO Connecting to database: /home/almustafa/QT_Proyects/aquilaPOS/aquilaPOS.db
+2025-07-07 18:30:23,246 database.py get_db 44 INFO Database connection established successfully.
+2025-07-07 18:30:23,247 main.py <module> 20 INFO PySide version: 6.9.1 / Qt version: 6.9.1
+2025-07-07 18:30:23,293 main.py <module> 24 INFO Directorio: /home/almustafa/QT_Proyects/aquilaPOS
+2025-07-07 18:30:23,293 tablas.py create_tables 13 INFO Creating tables if they do not exist...
+2025-07-07 18:30:23,293 tablas.py create_tables 17 INFO Tables created successfully.
+2025-07-07 18:30:23,294 main.py <module> 43 INFO Producto: Producto de prueba - Precio: 10.99 - Stock: 100
+2025-07-07 18:30:29,051 main.py <module> 47 INFO Login successful
